@@ -17,10 +17,10 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.book-library h2 {
+.book-library h1 {
   text-align: center;
-  margin-bottom: 30px;
   font-size: 24px;
+  margin-bottom: 30px;
 }
 
 .book {
@@ -57,7 +57,7 @@ body {
 }
 
 .price {
-  background-color: #2ecc71;
+  background-color: #2ecc71; /* green background */
   color: white;
   padding: 10px;
   border-radius: 4px;
